@@ -1,7 +1,7 @@
 # AI-Based Disease Prediction System
 
 ## Overview
-This project aims to provide users with quick and accurate predictions for various diseases based on their symptoms and medical data. This project was developed as part of our "Software Project Management" course at Sichuan University, combining our passion for technology with our commitment to improving healthcare accessibility.
+This project was developed as part of our "Software Project Management" course at Sichuan University, and it aims to provide users with quick and accurate predictions for various diseases based on their symptoms and medical data. 
 
 ## Features
 
