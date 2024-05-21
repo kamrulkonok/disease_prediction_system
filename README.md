@@ -27,6 +27,6 @@ Our project leverages a range of modern technologies to ensure high performance 
 This project was brought to life by a dedicated team of developers:
 
 - **A K MMuhitul Islam**: Developed the interfaces for Skin Cancer Detection and Diabetes Prediction.
-- **MD Kamrul Islam**: Worked on the interface for Random Disease Detection, Heart Disease Detection and the homepage.
+- **MD Kamrul Islam**: Worked on the interface for Random Disease Detection, Heart Disease Detection.
 - **Iqbal Hossian Limon**: Created the interfaces for Lung Cancer Detection and managed the patient and doctor login/logout functionality.
 - **Md Naim Hassan Saykat**: Focused on the interface for Breast Cancer Detection.
