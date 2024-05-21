@@ -1,0 +1,24 @@
+.holder{
+ display: flex;
+ 
+ justify-content: center;
+}
+
+.main{
+    width: 70%;
+    margin-top: 40px;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.main-div{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}

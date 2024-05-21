@@ -1,0 +1,32 @@
+/* header{
+    margin-bottom: 25px;
+    width: 100%;
+    font-size: 18px;
+} */
+
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    /* background: #eeeeee; */
+    background-color: black;
+    color: #b8b8b8;
+    font-family: Helvetica;
+    font-weight: 300;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.navbar__title {
+    margin-right: auto;
+    font-size: 150%;
+    padding: 12px 16px;
+}
+
+.navbar__item {
+    padding: 16px 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}

@@ -1,0 +1,17 @@
+.breast-cancer{
+    padding: 0 20px 20px 40px;
+    height: 520px;
+    margin: 0 0 50px 50px;
+    
+}
+
+.input-groups{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.forms{
+    margin-bottom: 60px;
+}
+

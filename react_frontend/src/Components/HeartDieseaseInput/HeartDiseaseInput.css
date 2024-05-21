@@ -1,0 +1,17 @@
+.heart-disease{
+    padding: 0 20px 20px 40px;
+    height: 520px;
+    margin: 0 0 50px 50px;
+    
+}
+
+.input-group{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.form{
+    margin-bottom: 60px;
+}
+
